@@ -33,7 +33,7 @@ Original app by anuraghazra on:
 </div>
 
 ## A Brief Biography
-Hello stranger! Allow me to introduce myself...
+### Hello stranger! Allow me to introduce myself...
 
 <section id="bio">
   <img src="./public/images/picture_001.jpg" alt="A selfie of me" width="261px" height="464px" align="left">
@@ -47,3 +47,9 @@ Hello stranger! Allow me to introduce myself...
     </p>
   </div>
 </section>
+
+### Want to contact me?
+<!-- Use the following link to place badges:
+https://hendrasob.github.io/badges/#list-of-badges-for-your-profile
+-->
+
