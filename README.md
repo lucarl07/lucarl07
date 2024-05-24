@@ -38,9 +38,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:101ananaselectric@gmail.com)
 
 <!-- Use the following links to place badges:
-https://hendrasob.github.io/badges/#list-of-badges-for-your-profile
-https://home.aveek.io/GitHub-Profile-Badges/
-https://skillicons.dev/
+  https://hendrasob.github.io/badges/#list-of-badges-for-your-profile
+  https://home.aveek.io/GitHub-Profile-Badges/
+  https://skillicons.dev/
 -->
 
 <!-- THEMES FOR README STATS:
