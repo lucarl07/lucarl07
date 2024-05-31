@@ -2,9 +2,9 @@
   <h1>Welcome to my profile!</h1>
 </div>
 
-## About Me:
+<h2 align="center">About Me</h2>
 <section id="about-me">
-  <img src="./public/images/picture_001.jpg" alt="A selfie of me" width="261px" height="464px" align="left">
+  <img src="./public/images/picture_001.jpg" alt="A selfie of me" width="261px" height="301px" align="left">
 
   <article>
     <div class="bio">
@@ -27,9 +27,14 @@
   </article>
 </section> 
 
-## My GitHub statistics:
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lucarl07&show=prs_merged&show_icons=true&theme=ambient_gradient&bg_color=45,edae00,fc4903)](https://github.com/anuraghazra/github-readme-stats)
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucarl07&layout=donut&size_weight=0.5&count_weight=0.5&theme=ambient_gradient&bg_color=45,fc4903,edae00)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <h2>My GitHub Stats</h2>
+  
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lucarl07&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucarl07&layout=donut&size_weight=0.5&count_weight=0.5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ## Want to contact me?
 [![Twitter or X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
