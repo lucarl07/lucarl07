@@ -2,8 +2,8 @@
   <h1>Welcome to my profile!</h1>
 </div>
 
-<h2 align="center">About Me</h2>
 <section id="about-me">
+  <h2 align="center">About Me</h2>
   <img src="./public/images/picture_001.jpg" alt="A selfie of me" width="261px" height="301px" align="left">
 
   <article>
@@ -28,13 +28,15 @@
 </section> 
 
 
-<div align="center">
+<section id="github-stats" align="center">
   <h2>My GitHub Stats</h2>
-  
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lucarl07&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucarl07&layout=donut&size_weight=0.5&count_weight=0.5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucarl07&show_icons=true&theme=gotham" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarl07&layout=compact&theme=gotham&card_width=320" />
+  </a>
+</section>
 
 ## Want to contact me?
 [![Twitter or X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
