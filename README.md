@@ -4,13 +4,13 @@
 
 <section id="about-me">
   <h2 align="center">About Me</h2>
-  <img src="./public/images/picture_001.jpg" alt="A selfie of me" width="261px" height="301px" align="left">
+  <img src="./public/images/picture_001.jpg" alt="A selfie of me" width="25%" height="25%" align="left">
 
   <article>
     <div class="bio">
       <h3>A Brief Biography</h3>
       <p align="justify">
-        Hello stranger! My name is Luiz (pronounced "loo-is") and although I'm a programming student now, I'll soon be a full-stack developer. I've been learning Web Development since 2023, <!-- (hope that will spare some updates) --> starting Node.js and React this year. <!-- (but that won't) --> Moreover, i did a Linguaskill test back on 2022, in which i got a score of +180 points and was ranked at a C1 (Proficiency) CEFR level. Though i must say, nowadays I don't practice my written, formal English enough, so please pardon any mistakes.
+        Hello stranger! My name is Luiz (pronounced "loo-is") and although I'm a programming student now, I'll soon be a full-stack developer. I've been learning Web Development since 2023, <!-- (hope that will spare some updates) --> starting Node.js and React this year. <!-- (but that won't) --> Moreover, i did a Linguaskill (English proficiency) test back on 2022, in which i got a score of +180 points and was ranked at a C1 CEFR level. On my spare time, i turn into an avid album listener, but i also started going to the gym.
       </p>
     </div>
     <div class="skills">
