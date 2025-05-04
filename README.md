@@ -3,7 +3,7 @@
 <h2 align="center">About me</h2>
 
 <div>
-  <img alt="Self-portrait" src="./public/images/picture_001.jpg" align="left" width="27.5%" height="27.5%" object-fit="cover">
+  <img alt="Self-portrait" src="./public/images/picture_001.jpg" align="left" width="30%" height="30%" object-fit="cover">
   
   <h3>A Brief Biography:</h3>
   I am Luiz, a young student aspiring to be a professional front-end developer, currently studying Computer Science at UNINASSAU. 
@@ -34,10 +34,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucarl07&show_icons=true&theme=material-palenight" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucarl07&show_icons=true&theme=material-palenight&card_width=300" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarl07&layout=compact&theme=material-palenight&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucarl07&layout=compact&theme=material-palenight" />
   </a>
   <!-- Original app by anuraghazra on:
   https://github.com/anuraghazra/github-readme-stats 
