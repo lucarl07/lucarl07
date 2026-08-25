@@ -27,7 +27,7 @@
   Here are some things about myself I'd like to share. 
 </p>
 <p>
-  🎓 Studying Computer Science at UNINASSAU; <br/>
+  🎓 Studying Computer Science at Uninassau; <br/>
   💻 Web Computing Technician by SENAI-AL; <br/>
   🛠 Aspiring to be a Software Engineer; <br/>
   💂 Level C1+ English speaker. <br/>
