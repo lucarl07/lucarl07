@@ -34,6 +34,9 @@
   🛠 Aspiring to be a Software Engineer; <br/>
   💂 Level C1+ English speaker. <br/>
 </p>
+<p>
+  For those interested in my work: please check out the pinned repos!
+</p>
 
 <h2 align="left">Contact</h2>
 <p>
